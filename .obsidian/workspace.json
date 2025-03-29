@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "DF/테스트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "테스트"
             }
           }
         ],
@@ -183,10 +183,11 @@
   },
   "active": "23fe636d35e34a44",
   "lastOpenFiles": [
-    "DF/테스트.md",
-    "Untitled.md",
-    "Untitled",
+    "test.md",
     "Welcome.md",
+    "Test/실험.md",
+    "DF/테스트.md",
+    "Test",
     "DF",
     "블렌더"
   ]
