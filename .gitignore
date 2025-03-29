@@ -1,0 +1,9 @@
+# 운영체제 특화 파일들
+.DS_Store
+Thumbs.db
+
+# Obsidian 개인 작업공간 설정 (공유 불필요)
+*/.obsidian/
+
+# 기타
+*.log
