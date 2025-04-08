@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DF/테스트.md",
+                "file": "asdfasdf/asdfasdf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "테스트"
+              "title": "asdfasdf"
             }
           }
         ],
@@ -162,13 +162,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "dcadcaa970d350fa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,11 +193,13 @@
   },
   "active": "23fe636d35e34a44",
   "lastOpenFiles": [
+    "DF/테스트.md",
+    "asdfasdf/asdfasdf.md",
+    "asdfasdf",
     "Welcome.md",
     "test.md",
     "Res/imgs/NF-wip-npr-ch-eyesOn.png",
     "NPR/뉴욕 친구들 NPR.md",
-    "DF/테스트.md",
     "Test/실험.md",
     "Res/imgs",
     "Res",
