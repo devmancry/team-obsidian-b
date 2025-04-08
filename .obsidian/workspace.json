@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPR/뉴욕 친구들 NPR.md",
+                "file": "DF/테스트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "뉴욕 친구들 NPR"
+              "title": "테스트"
             }
           }
         ],
@@ -183,15 +183,15 @@
   },
   "active": "23fe636d35e34a44",
   "lastOpenFiles": [
+    "Welcome.md",
+    "test.md",
     "Res/imgs/NF-wip-npr-ch-eyesOn.png",
     "NPR/뉴욕 친구들 NPR.md",
+    "DF/테스트.md",
+    "Test/실험.md",
     "Res/imgs",
     "Res",
-    "DF/테스트.md",
     "NPR",
-    "test.md",
-    "Welcome.md",
-    "Test/실험.md",
     "Test",
     "DF",
     "블렌더"
