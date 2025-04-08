@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asdfasdf/asdfasdf.md",
+                "file": "Nono/노노 - 리깅.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "asdfasdf"
+              "title": "노노 - 리깅"
             }
           }
         ],
@@ -194,6 +194,8 @@
   "active": "23fe636d35e34a44",
   "lastOpenFiles": [
     "DF/테스트.md",
+    "Nono/노노 - 리깅.md",
+    "Nono",
     "asdfasdf/asdfasdf.md",
     "asdfasdf",
     "Welcome.md",
