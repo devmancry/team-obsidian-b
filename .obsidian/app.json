@@ -1,4 +1,7 @@
 {
-  "attachmentFolderPath": "Res/imgs",
-  "alwaysUpdateLinks": true
+  "attachmentFolderPath": "/",
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "strictLineBreaks": false,
+  "smartIndentList": false
 }

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04.11/회의.md",
+                "file": "05.01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "회의"
+              "title": "05.01"
             }
           }
         ],
@@ -104,6 +104,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "7ca2d75b1e864a37",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "a32143b878a50eab",
             "type": "leaf",
             "state": {
@@ -173,17 +183,16 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 397.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -193,12 +202,20 @@
   },
   "active": "23fe636d35e34a44",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "04.11/회의.md",
+    "04.11/Untitled 6.md",
+    "Untitled 5.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "05.01.md",
+    "04.11/Untitled.md",
     "Nono/Pasted image 20250409001732.png",
     "NPR/뉴욕 친구들 NPR.md",
     "Nono/노노 - 리깅.md",
     "링크 모음/그 외 링크.md",
     "링크 모음/블렌더 리깅 참고 링크.md",
-    "04.11/회의.md",
     "DF/테스트.md",
     "04.11",
     "Res/imgs/Pasted image 20250411030746.png",
