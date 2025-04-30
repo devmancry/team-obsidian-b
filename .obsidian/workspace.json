@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05.01.md",
+                "file": "회의자료/회의 05.01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05.01"
+              "title": "회의 05.01"
             }
           }
         ],
@@ -55,7 +55,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -200,16 +200,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23fe636d35e34a44",
+  "active": "7ca2d75b1e864a37",
   "lastOpenFiles": [
+    "회의자료/회의 05.01.md",
+    "회의자료/회의 04.11.md",
+    "회의자료",
     "Untitled 1.md",
-    "04.11/회의.md",
     "04.11/Untitled 6.md",
     "Untitled 5.md",
     "Untitled 4.md",
     "Untitled 3.md",
     "Untitled 2.md",
-    "05.01.md",
     "04.11/Untitled.md",
     "Nono/Pasted image 20250409001732.png",
     "NPR/뉴욕 친구들 NPR.md",
@@ -217,7 +218,7 @@
     "링크 모음/그 외 링크.md",
     "링크 모음/블렌더 리깅 참고 링크.md",
     "DF/테스트.md",
-    "04.11",
+    "회의자료/04.11",
     "Res/imgs/Pasted image 20250411030746.png",
     "Res/imgs/NF-wip-npr-ch-eyesOn.png",
     "test.md",
