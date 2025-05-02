@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회의자료/회의 05.01.md",
+                "file": "2025/각종 행사 일정.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "회의 05.01"
+              "title": "각종 행사 일정"
             }
           }
         ],
@@ -214,9 +214,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb09dcf5320f2c2c",
+  "active": "914403ee98d5dd3c",
   "lastOpenFiles": [
     "회의자료/회의 05.01.md",
+    "2025/각종 행사 일정.md",
+    "2025",
     "회의자료/회의 04.11.md",
     "회의자료",
     "Untitled 1.md",
@@ -245,7 +247,6 @@
     "Res",
     "NPR",
     "링크 모음",
-    "DF",
-    "블렌더"
+    "DF"
   ]
 }
