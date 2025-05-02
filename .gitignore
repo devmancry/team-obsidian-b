@@ -3,7 +3,7 @@
 Thumbs.db
 
 # Obsidian 개인 작업공간 설정 (공유 불필요)
-*/.obsidian/
+.obsidian/
 
 # 기타
 *.log
