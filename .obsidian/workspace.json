@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "회의 05.01"
             }
+          },
+          {
+            "id": "5dd3ffbf765088db",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,6 +214,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -211,7 +224,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb09dcf5320f2c2c",
+  "active": "5dd3ffbf765088db",
   "lastOpenFiles": [
     "Nono/Pasted image 20250409001732.png",
     "2025/각종 행사 일정.md",
