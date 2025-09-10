@@ -46,9 +46,21 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.9.10"
             }
+          },
+          {
+            "id": "af9322ed3eeff49b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -224,7 +236,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5dd3ffbf765088db",
+  "active": "af9322ed3eeff49b",
   "lastOpenFiles": [
     "Nono/Pasted image 20250409001732.png",
     "2025/각종 행사 일정.md",
